@@ -3,7 +3,7 @@
     "path": "~/Desktop/Dat Sci/README.Rmd",
     "project_path": "README.Rmd",
     "type": "r_markdown",
-    "hash": "2090682001",
+    "hash": "1302856911",
     "contents": "",
     "dirty": false,
     "created": 1614764378158.0,
@@ -11,15 +11,15 @@
     "relative_order": 1,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "21,0",
-        "scrollLine": "0"
+        "cursorPosition": "20,4",
+        "scrollLine": "1"
     },
     "folds": "",
-    "lastKnownWriteTime": 1614839510,
+    "lastKnownWriteTime": 1615192530,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1614839510425,
+    "last_content_update": 1615192530074,
     "read_only": false,
     "read_only_alternatives": []
 }
