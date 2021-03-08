@@ -1,0 +1,29 @@
+---
+title: "Read Me"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+## Purpose
+
+Data Science for Economics and Finance tutorial.
+
+## Outline
+
+Create GitHub account.
+Create GitHub repository.
+Go through tutorial available at:  "https://datsci.nfkatzke.com/posts/2019-07-24-practical-1-getting-you-started/notes/setup_intro"
+
+
+
+```{r}
+
+df <-  
+
+```
+
